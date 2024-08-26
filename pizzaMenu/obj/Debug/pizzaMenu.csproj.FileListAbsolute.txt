@@ -1,0 +1,9 @@
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\bin\Debug\pizzaMenu.exe.config
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\bin\Debug\pizzaMenu.exe
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\bin\Debug\pizzaMenu.pdb
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\obj\Debug\pizzaMenu.csprojResolveAssemblyReference.cache
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\obj\Debug\pizzaMenu.pizzaMenu.resources
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\obj\Debug\pizzaMenu.Properties.Resources.resources
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\obj\Debug\pizzaMenu.csproj.GenerateResource.Cache
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\obj\Debug\pizzaMenu.exe
+G:\C# 2024\Lecture Demos\pizzaMenu\pizzaMenu\obj\Debug\pizzaMenu.pdb
